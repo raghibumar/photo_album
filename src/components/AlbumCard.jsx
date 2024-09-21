@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
-import AlbumModal from "./albumModal";
-
+import AlbumModal from "./AlbumModal";
 const photoDetails = {
   albumId: [],
 };
